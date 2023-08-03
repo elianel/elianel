@@ -20,7 +20,7 @@
       		       In the past I used to make mods for VRChat and thanks to EasyAntiCheat I started to branch out.
         	       I like virtual reality, free (as in speech) projects, messing with servers and making stuff break.
         </p><blockquote>
-          “Veni, vidi, vici.”
+         𝆺𝅥𝅮 Now listening to Dreamland - Fox Stevenson 𝆺𝅥𝅮
         </blockquote>
 	</article>
 </div>
