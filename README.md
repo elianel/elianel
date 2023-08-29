@@ -25,12 +25,10 @@
 	</article>
 </div>
 <div>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianel&layout=compact&theme=shadow_red"></img>
 	<figcaption>Some *public* projects I worked on:</figcaption>
 	<dl>
 	  <dt><a href="https://github.com/Astrum-Project">Astrum-Project</a></dt>
-	  <dt><a href="https://github.com/KiraiMod/legacy">KiraiMod</a></dt>
-    <dt><a href="https://github.com/elianel/VRCMods">VRChat Mods</a></dt>
+    	  <dt><a href="https://github.com/elianel/VRCMods">VRChat Mods</a></dt>
 	</dl>
 	<br>
 </div>
