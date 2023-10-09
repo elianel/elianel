@@ -15,7 +15,7 @@
 <div>
 	<article>
 		      <h3>Hello Friend,<br>&nbsp; &nbsp; Welcome to my Github Profile!</h3>
-      <p>&nbsp; &nbsp; I have many aliases but you can call me Elian or Yui Chan.
+      <p>&nbsp; &nbsp; I have many aliases but you can call me Elian.
       		       I am 20, a CS Student and Linux enthusiast (daily driving arch btw).
       		       In the past I used to make mods for VRChat and thanks to EasyAntiCheat I started to branch out.
         	       I like virtual reality, free (as in speech) projects, messing with servers and making stuff break.
