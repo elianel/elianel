@@ -4,8 +4,8 @@
 <a href="https://matrix.to/#/@elian:uwu.just-h.party">
 	<img src="https://img.shields.io/static/v1?label=Matrix&message=@elian:uwu.just-h.party&colorA=1e1e28&colorB=ffffff&style=for-the-badge"/>
 </a>
-<a href="https://steamcommunity.com/id/rootctl/">
-	<img src="https://img.shields.io/static/v1?label=Steam&message=rootctl&colorA=1e1e28&colorB=ffffff&style=for-the-badge"/>
+<a href="https://steamcommunity.com/id/elianel7/">
+	<img src="https://img.shields.io/static/v1?label=Steam&message=elianel7&colorA=1e1e28&colorB=ffffff&style=for-the-badge"/>
 </a>
 <a href="https://github.com/elianel/">
 	<img src="https://komarev.com/ghpvc/?username=elianel&style=for-the-badge&color=1e1e28"/>
